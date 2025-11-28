@@ -1,0 +1,5 @@
+{
+  "name": "The Burnout Shield",
+  "description": "A predictive HR Analytics dashboard designed to detect early warning signs of workforce burnout using synthetic data and lag-correlation modeling.",
+  "requestFramePermissions": []
+}
